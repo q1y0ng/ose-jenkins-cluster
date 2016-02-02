@@ -418,7 +418,7 @@
         {
             "name": "GIT_URI",
             "description": "Git Repository",
-            "value": "https://github.com/sabre1041/ose-jenkins-cluster.git"
+            "value": "https://github.com/q1y0ng/ose-jenkins-cluster.git"
         },
         {
             "name": "GIT_REF",
